@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.AssemblyInfo.cs
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.sourcelink.json
+C:\Users\admin\Desktop\Control-work\bin\Debug\net8.0\Control-work.exe
+C:\Users\admin\Desktop\Control-work\bin\Debug\net8.0\Control-work.deps.json
+C:\Users\admin\Desktop\Control-work\bin\Debug\net8.0\Control-work.runtimeconfig.json
+C:\Users\admin\Desktop\Control-work\bin\Debug\net8.0\Control-work.dll
+C:\Users\admin\Desktop\Control-work\bin\Debug\net8.0\Control-work.pdb
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.dll
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\refint\Control-work.dll
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.pdb
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\Control-work.genruntimeconfig.cache
+C:\Users\admin\Desktop\Control-work\obj\Debug\net8.0\ref\Control-work.dll
